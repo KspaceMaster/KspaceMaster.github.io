@@ -1,24 +1,24 @@
 - name: ABOUT US
-  link: /pricing/
-  new_window: false
-  highlight: false
-- name: LABORATORY
-  link: /blog/
-  new_window: false
-  highlight: false
-- name: BUSINESS
   link: /about/
   new_window: false
   highlight: false
+- name: LABORATORY
+  link: /laboratory/
+  new_window: false
+  highlight: false
+- name: BUSINESS
+  link: /business/
+  new_window: false
+  highlight: false
 - name: VISION
-  link: /contact/
+  link: /vision/
   new_window: false
   highlight: false
 - name: CONTACT
-  link: /
+  link: /contact/
   new_window: true
   highlight: false
 - name: UPDATES
-  link: /
-  new_window: true
-  highlight: true
+  link: /blog/
+  new_window: false
+  highlight: false
