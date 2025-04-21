@@ -16,7 +16,7 @@
   highlight: false
 - name: CONTACT
   link: /contact/
-  new_window: true
+  new_window: false
   highlight: false
 - name: UPDATES
   link: /blog/
