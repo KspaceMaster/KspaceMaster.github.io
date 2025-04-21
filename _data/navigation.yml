@@ -1,24 +1,24 @@
-- name: Pricing
+- name: ABOUT US
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
+- name: LABORATORY
   link: /blog/
   new_window: false
   highlight: false
-- name: About
+- name: BUSINESS
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
+- name: VISION
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
+- name: CONTACT
   link: /
   new_window: true
   highlight: false
-- name: Sign Up
+- name: UPDATES
   link: /
   new_window: true
   highlight: true
